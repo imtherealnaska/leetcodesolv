@@ -1,5 +1,7 @@
-use twosum::{no_hashmap_two_sum, two_sum};
+use chalk_med::chalk_replacer;
+use twosum::two_sum;
 
+pub mod chalk_med;
 pub mod twosum;
 
 fn main() {
@@ -8,8 +10,8 @@ fn main() {
     let target = 5;
     let ans = two_sum(nums, target);
     println!("{ans:?}");
-    let snums = vec![1, 2, 3, 4, 5, 6, 7];
-
-    let sans = no_hashmap_two_sum(snums, target);
+    let snums = vec![3, 4, 1, 2];
+    let k = 25;
+    let sans = chalk_replacer(snums, k);
     println!("{sans:?}");
 }
