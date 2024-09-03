@@ -1,7 +1,9 @@
 use chalk_med::chalk_replacer;
+use sum_of_digit_string::get_lucky;
 use twosum::two_sum;
 
 pub mod chalk_med;
+pub mod sum_of_digit_string;
 pub mod twosum;
 
 fn main() {
@@ -14,4 +16,7 @@ fn main() {
     let k = 25;
     let sans = chalk_replacer(snums, k);
     println!("{sans:?}");
+
+    let a = get_lucky("iiii".to_string(), 1);
+    println!("a = {a}");
 }
