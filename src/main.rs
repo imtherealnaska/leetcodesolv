@@ -4,15 +4,20 @@ use merge_alt::merge_alternatively;
 use missing_obs::missing_rolls;
 use sum_of_digit_string::get_lucky;
 use twosum::two_sum;
+use vowel_replace::reverse_vowels;
 
 pub mod chalk_med;
 pub mod extra_candies;
+pub mod flowered_plant;
 pub mod gcd_string;
+pub mod linked_list_binary;
+pub mod linked_list_remove_nums;
 pub mod merge_alt;
 pub mod missing_obs;
 pub mod sorts;
 pub mod sum_of_digit_string;
 pub mod twosum;
+pub mod vowel_replace;
 pub mod walking_robot;
 
 fn main() {
@@ -45,9 +50,11 @@ fn main() {
     // let candies = vec![2,3,5,1,3];
     // let extra_canies = 3 ;
     // println!("{:?}" , extra_candies::kids_with_candies(candies, extra_canies));
-    let rolls = vec![3, 2, 4, 3];
-    let mean = 4;
-    let n = 2;
-    let result = missing_rolls(rolls, mean, n);
-    println!("{:?}", result);
+    // let rolls = vec![3, 2, 4, 3];
+    // let mean = 4;
+    // let n = 2;
+    // let result = missing_rolls(rolls, mean, n);
+    // println!("{:?}", result);
+    // println!("{}", reverse_vowels("hello".to_string())); // Output: "holle"
+    // println!("{}", reverse_vowels("leetcode".to_string())); // Output: "leotcede"
 }
