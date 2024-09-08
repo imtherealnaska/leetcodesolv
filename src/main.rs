@@ -1,24 +1,5 @@
-use chalk_med::chalk_replacer;
-use gcd_string::gcd_of_strings;
-use merge_alt::merge_alternatively;
-use missing_obs::missing_rolls;
-use sum_of_digit_string::get_lucky;
-use twosum::two_sum;
-use vowel_replace::reverse_vowels;
-
-pub mod chalk_med;
-pub mod extra_candies;
-pub mod flowered_plant;
-pub mod gcd_string;
-pub mod linked_list_binary;
-pub mod linked_list_remove_nums;
-pub mod merge_alt;
-pub mod missing_obs;
+pub mod daily_problems;
 pub mod sorts;
-pub mod sum_of_digit_string;
-pub mod twosum;
-pub mod vowel_replace;
-pub mod walking_robot;
 
 fn main() {
     //    let nums = vec![1, 2, 3, 4, 5, 6, 7];
