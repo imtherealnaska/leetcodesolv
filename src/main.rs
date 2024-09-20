@@ -1,6 +1,8 @@
 pub mod daily_problems;
 pub mod sorts;
 
+use daily_problems::*;
+
 fn main() {
     //    let nums = vec![1, 2, 3, 4, 5, 6, 7];
     //
@@ -38,4 +40,14 @@ fn main() {
     // println!("{:?}", result);
     // println!("{}", reverse_vowels("hello".to_string())); // Output: "holle"
     // println!("{}", reverse_vowels("leetcode".to_string())); // Output: "leotcede"
+
+    let start = 3;
+    let goal = 4;
+    println!("{}", bitflip::min_bit_flips(start, goal));
+
+    let s = String::from("leetcodeisgreat");
+    println!(
+        "{}",
+        longest_substring_containing_vowels_even_med::find_the_longest_substring(s)
+    );
 }
