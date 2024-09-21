@@ -24,3 +24,5 @@ pub mod longest_substring_containing_vowels_even_med;
 pub mod minimum_time_diff_med;
 pub mod uncommon_words_easy;
 pub mod xor_subarray_medium;
+
+pub mod lexicographic_numbers_medium;
