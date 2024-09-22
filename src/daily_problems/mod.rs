@@ -26,3 +26,4 @@ pub mod uncommon_words_easy;
 pub mod xor_subarray_medium;
 
 pub mod lexicographic_numbers_medium;
+pub mod lexicographic_hard;
