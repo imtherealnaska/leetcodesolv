@@ -1,0 +1,66 @@
+### About
+
+- So i will be solving/learning algorithms and Data structures as in this [post](https://matklad.github.io/2023/08/13/role-of-algorithms.html) from leetcode.
+- writing proofs using dafny to understand them better.(rocq is too hard for me.)
+
+#### Todo:
+
+- [ ] linear search.
+
+
+- [ ] binary search
+
+- [ ] quadratic sorting
+
+- [ ] merge sort
+
+- [ ] heap sort
+
+- [ ] binary heap
+
+- [ ] growable array
+
+- [ ] doubly-linked list
+
+- [ ] binary search tree
+
+- [ ] AVL tree
+
+- [ ]Red Black Tree
+
+- [ ] B-tree
+
+- [ ] Splay Tree
+Worth knowing just to have a laugh at https://www.link.cs.cmu.edu/splay/tree5.jpg.
+
+- [ ] HashTable
+
+- [ ] Depth First Search
+
+- [ ] Breadth First Search
+
+
+- [ ] Topological Sort
+
+- [ ] Strongly Connected Components
+
+- [ ] Minimal Spanning Tree
+
+- [ ] Dijkstra
+
+- [ ] Floyd-Warshall
+
+
+- [ ] Bellman-Ford
+
+- [ ] Quadratic Substring Search
+
+- [ ] Rabin-Karp
+
+- [ ] Boyer-Moore
+
+- [ ] Knuth-Morris-Pratt
+
+- [ ] Aho-Corasick
+
+- [ ] Edit Distance
