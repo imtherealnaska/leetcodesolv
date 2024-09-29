@@ -33,4 +33,5 @@ pub mod my_calendar_1_med;
 pub mod my_calendar_2_med;
 pub mod sum_of_prefix_scores_of_strings_hard;
 
+pub mod all_one_datastructure_hard;
 pub mod circular_deque_med;
