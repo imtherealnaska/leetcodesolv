@@ -27,6 +27,7 @@ pub mod minimum_time_diff_med;
 pub mod missing_obs;
 pub mod my_calendar_1_med;
 pub mod my_calendar_2_med;
+pub mod permutation_string_medium;
 pub mod rank_transform_array_easy;
 pub mod spiral_linkedlist;
 pub mod split_linkedlist;
