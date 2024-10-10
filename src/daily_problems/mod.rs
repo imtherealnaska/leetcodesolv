@@ -42,3 +42,4 @@ pub mod walking_robot;
 pub mod xor_subarray_medium;
 pub mod minimum_swaps_to_make_string_balanced_med ;
 pub mod minimun_add_make_parenthesis_valid_med;
+pub mod maximum_width_ramp ;

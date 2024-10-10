@@ -1,66 +1,63 @@
-### About
+###About
 
-- So i will be solving/learning algorithms and Data structures as in this [post](https://matklad.github.io/2023/08/13/role-of-algorithms.html) from leetcode.
-- writing proofs using dafny to understand them better.(rocq is too hard for me.)
+-So i will be solving/learning algorithms and Data structures as in this [post](https://matklad.github.io/2023/08/13/role-of-algorithms.html) from leetcode.
+-writing proofs using dafny to understand them better.(rocq is too hard for me.)
 
-#### Todo:
+####Todo:
 
-- [ ] linear search.
+linear search.
 
+binary search
 
-- [ ] binary search
+quadratic sorting
 
-- [ ] quadratic sorting
+merge sort
 
-- [ ] merge sort
+heap sort
 
-- [ ] heap sort
+binary heap
 
-- [ ] binary heap
+growable array
 
-- [ ] growable array
+doubly-linked list
 
-- [ ] doubly-linked list
+binary search tree
 
-- [ ] binary search tree
+AVL tree
 
-- [ ] AVL tree
+RedBlack Tree
 
-- [ ]Red Black Tree
+B-tree
 
-- [ ] B-tree
+Splay Tree
 
-- [ ] Splay Tree
-Worth knowing just to have a laugh at https://www.link.cs.cmu.edu/splay/tree5.jpg.
+HashTable
 
-- [ ] HashTable
+Depth First Search
 
-- [ ] Depth First Search
-
-- [ ] Breadth First Search
+Breadth First Search
 
 
-- [ ] Topological Sort
+Topological Sort
 
-- [ ] Strongly Connected Components
+Strongly Connected Components
 
-- [ ] Minimal Spanning Tree
+Minimal Spanning Tree
 
-- [ ] Dijkstra
+Dijkstra
 
-- [ ] Floyd-Warshall
+Floyd-Warshall
 
+Bellman-Ford
 
-- [ ] Bellman-Ford
+Quadratic Substring Search
 
-- [ ] Quadratic Substring Search
+Rabin-Karp
 
-- [ ] Rabin-Karp
+Boyer-Moore
 
-- [ ] Boyer-Moore
+Knuth-Morris-Pratt
 
-- [ ] Knuth-Morris-Pratt
+Aho-Corasick
 
-- [ ] Aho-Corasick
-
-- [ ] Edit Distance
+Edit Distance

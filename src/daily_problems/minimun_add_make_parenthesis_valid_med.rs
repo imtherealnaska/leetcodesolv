@@ -1,9 +1,4 @@
-use crate::{
-    check_if_array_problems_are_divisible_by_k_med::Solution,
-    minimun_add_make_parenthesis_valid_med,
-};
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn min_add_to_make_valid(s: String) -> i32 {
