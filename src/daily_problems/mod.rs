@@ -46,3 +46,4 @@ pub mod maximum_width_ramp ;
 pub mod number_of_smallest_unoccupied_chair_med ; 
 pub mod divide_intervals_into_min_num_of_groups;
 pub mod smalleset_range_k_sorted_list_hard;
+pub mod max_score_after_apllying_k_op_med;
