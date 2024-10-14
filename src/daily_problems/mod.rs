@@ -44,3 +44,5 @@ pub mod minimum_swaps_to_make_string_balanced_med ;
 pub mod minimun_add_make_parenthesis_valid_med;
 pub mod maximum_width_ramp ;
 pub mod number_of_smallest_unoccupied_chair_med ; 
+pub mod divide_intervals_into_min_num_of_groups;
+pub mod smalleset_range_k_sorted_list_hard;
