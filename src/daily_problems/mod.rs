@@ -51,3 +51,5 @@ pub mod vowel_replace;
 pub mod walking_robot;
 pub mod white_black_balls_med;
 pub mod xor_subarray_medium;
+pub mod find_kth_bit_in_binary_string;
+pub mod parsing_a_boolean_expr_hard;
