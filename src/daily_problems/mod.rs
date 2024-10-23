@@ -55,3 +55,4 @@ pub mod find_kth_bit_in_binary_string;
 pub mod parsing_a_boolean_expr_hard;
 pub mod max_unique_substring_dfs_med;
 pub mod kth_largest_sum_in_a_binary_tree_med;
+pub mod cousins_in_binary_tree_2_med;
