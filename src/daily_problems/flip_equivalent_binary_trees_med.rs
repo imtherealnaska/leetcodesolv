@@ -1,9 +1,8 @@
-//basically return true if two trees are flip of each other.
-
 use std::{cell::RefCell, rc::Rc};
 
 use super::kth_largest_sum_in_a_binary_tree_med::TreeNode;
 
+///basically return true if two trees are flip of each other.
 pub fn flip_equiv(
     root1: Option<Rc<RefCell<TreeNode>>>,
     root2: Option<Rc<RefCell<TreeNode>>>,
