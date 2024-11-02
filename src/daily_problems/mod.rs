@@ -3,6 +3,7 @@ pub mod bitflip;
 pub mod chalk_med;
 pub mod check_if_array_problems_are_divisible_by_k_med;
 pub mod circular_deque_med;
+pub mod circular_sentences_easy;
 pub mod consistent_string_easy;
 pub mod count_num_max_bitwise_or_subsets_backtrack_med;
 pub mod count_square_submatrices_with_all_ones_med;
