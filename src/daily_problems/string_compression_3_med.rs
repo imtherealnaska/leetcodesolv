@@ -1,4 +1,4 @@
-fn compressed_string(word: String) -> String {
+pub fn compressed_string(word: String) -> String {
     let mut comp = String::new();
     let mut chars = word.chars().peekable();
 
