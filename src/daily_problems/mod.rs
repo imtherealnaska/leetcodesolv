@@ -7,6 +7,7 @@ pub mod circular_deque_med;
 pub mod circular_sentences_easy;
 pub mod consistent_string_easy;
 pub mod count_num_max_bitwise_or_subsets_backtrack_med;
+pub mod count_number_of_fair_pairs_med_easy;
 pub mod count_square_submatrices_with_all_ones_med;
 pub mod cousins_in_binary_tree_2_med;
 pub mod customstack;
