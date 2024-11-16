@@ -23,7 +23,7 @@ pub fn prime_sub_operation(nums: Vec<i32>) -> bool {
     let mut i = 0;
 
     while i < nums.len() {
-        let difference = nums[i] as i32 - curr_value;
+        let difference = nums[i] - curr_value;
 
         if difference < 0 {
             return false;

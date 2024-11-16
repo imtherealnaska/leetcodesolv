@@ -1,5 +1,6 @@
 pub mod daily_problems;
 pub mod sorts;
+mod binary_search_problems;
 
 use daily_problems::*;
 
