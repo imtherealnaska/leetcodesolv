@@ -1,4 +1,5 @@
 pub mod sq_root;
+pub mod count_complete_tree_nodes;
 
 pub fn search_insert(nums: Vec<i32>, target: i32) -> i32 {
     let mut left = 0;
