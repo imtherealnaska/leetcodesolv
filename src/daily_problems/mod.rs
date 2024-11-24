@@ -68,7 +68,6 @@ pub mod remove_subfolders_from_filesystem_med;
 pub mod results_array;
 pub mod robot_repair_distance_hard;
 pub mod rotate_string_easy;
-pub mod rotating_box_med;
 pub mod sentence_similarity_3;
 pub mod shortest_special_strin_subarray;
 pub mod shortest_subarray_length_med;
