@@ -98,3 +98,5 @@ pub mod vowel_replace;
 pub mod walking_robot;
 pub mod white_black_balls_med;
 pub mod xor_subarray_medium;
+pub mod max_chunks_sorted_med;
+pub mod reverse_odd_levels_of_bintree_med;
