@@ -1,8 +1,8 @@
 use std::fmt::Debug;
 
-pub fn heap_sort<T: Ord>(arr: &mut [T])
+pub fn heap_sort<T>(arr: &mut [T])
 where
-    T: Debug,
+    T: Debug + Ord,
 {
     let len = arr.len();
 

@@ -1,7 +1,8 @@
-pub mod sq_root;
 pub mod count_complete_tree_nodes;
+pub mod sq_root;
 
 pub fn search_insert(nums: Vec<i32>, target: i32) -> i32 {
+    // preconditions :sorted array of numbers .
     let mut left = 0;
     let mut right = nums.len();
 
@@ -14,5 +15,6 @@ pub fn search_insert(nums: Vec<i32>, target: i32) -> i32 {
             right = mid;
         }
     }
+    // postcondition : Find the target element and return its index
     left as i32
 }

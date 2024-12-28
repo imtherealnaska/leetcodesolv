@@ -1,6 +1,4 @@
 # Solution from editorial , just because its clean
-
-
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val

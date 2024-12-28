@@ -2,6 +2,7 @@ pub mod daily_problems;
 pub mod sorts;
 mod binary_search_problems;
 pub mod datastructures;
+pub mod algorithms;
 
 use daily_problems::*;
 
